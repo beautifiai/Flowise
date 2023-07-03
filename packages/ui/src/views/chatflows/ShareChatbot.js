@@ -345,7 +345,7 @@ const ShareChatbot = ({ chatflowid, chatbotConfig }) => {
                 'botMessageAvatarSrc',
                 'Avatar Link',
                 'string',
-                `https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png`
+                `https://raw.githubusercontent.com/beautifiai/Flowise/main/assets/Parroticon.png`
             )}
             {booleanField(botMessageShowAvatar, 'botMessageShowAvatar', 'Show Avatar')}
 
