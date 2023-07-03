@@ -163,7 +163,7 @@ const EditPromptValuesDialog = ({ show, dialogProps, onCancel, onConfirm }) => {
                                                                 objectFit: 'contain'
                                                             }}
                                                             alt='AI'
-                                                            src='https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png'
+                                                            src='https://raw.githubusercontent.com/beautifiai/Flowise/main/assets/Parroticon.png'
                                                         />
                                                     </div>
                                                 </ListItemAvatar>
